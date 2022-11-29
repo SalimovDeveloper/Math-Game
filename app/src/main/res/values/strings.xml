@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Math_game</string>
+    <string name="math_game">MATH GAME</string>
+    <string name="result">Result</string>
+    <string name="math_game1">MATH GAME</string>
+    <string name="javobini_kiriting">Javobini kiriting</string>
+    <string name="_5_15">5 + 15</string>
+    <string name="klass">👍</string>
+    <string name="dizzklass">👎</string>
+    <string name="like">like</string>
+</resources>
